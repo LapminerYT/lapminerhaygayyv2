@@ -10,7 +10,7 @@ var timeLimit = 5000;
 
 window.addEventListener("load", function() {
 
-	window.location.href = "https://lapminer.netlify.app/";
+	window.location.href = "/vn/";
 });
 
 
